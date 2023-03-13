@@ -1,8 +1,8 @@
 Hi, there! I'm Joshua Osburn! 
 
-I'm a full-stack developer well-versed in many different web technologies, stacks, etc... I'm interested in creating RESTful APIs, network layer applications, and anything to do with home automation.
+I'm a Software Developer @ General Motors! I'm interested in creating RESTful APIs, network layer applications, and anything to do with home automation.
 
-I'm currently working on learning React, CI/CD, and Time Complexity.
+I've recently became interested in Front-end development! You can find me honing my CSS skills!
 
 You can reach me by going to my LinkedIn account: https://linkedin.com/in/joshuakosburn
 
