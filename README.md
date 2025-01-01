@@ -1,6 +1,6 @@
 Hi, there! I'm Joshua Osburn! 
 
-I'm a Software Developer @ General Motors! I'm interested in creating RESTful APIs, network layer applications, and anything to do with home automation.
+I'm a Software Developer interested in creating RESTful APIs, network layer applications, and anything to do with home automation.
 
 I've recently became interested in Front-end development! You can find me honing my CSS skills!
 
